@@ -1,0 +1,14 @@
+body {
+    background-color: tomato;
+    text-align: center;
+}
+#butter {
+    border: 2px solid black;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.row {
+    font-size: 26px;
+}
